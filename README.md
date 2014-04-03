@@ -1,3 +1,3 @@
-#Game of Life Screensaver
+#Game of Life in C#
 
-Just a small Game of Life Screensaver written in C#.
+Just a fullscreen Game of Life written in C#.
