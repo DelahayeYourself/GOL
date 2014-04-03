@@ -1,3 +1,3 @@
-#Game of Life in C\#
+#Fullscreen Game of Life
 
 Just a fullscreen Game of Life written in C#.
